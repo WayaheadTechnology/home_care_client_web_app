@@ -29324,7 +29324,7 @@ awF:function awF(){},
 a2s:function a2s(a){this.a=a},
 adY(a,b,c,d,a0){var s=0,r=A.G(t.bo),q,p=2,o,n,m,l,k,j,i,h,g,f,e
 var $async$adY=A.C(function(a1,a2){if(a1===1){o=a2
-s=p}while(true)switch(s){case 0:j="http://localhost:3000/order/"
+s=p}while(true)switch(s){case 0:j="http://52.90.55.243/order/"
 i=t.N
 h=A.ak(["Content-Type","application/json"],i,i)
 g=null
@@ -29360,7 +29360,7 @@ case 2:return A.D(o,r)}})
 return A.F($async$adY,r)},
 OS(a5){var s=0,r=A.G(t.hf),q,p=2,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4
 var $async$OS=A.C(function(a6,a7){if(a6===1){o=a7
-s=p}while(true)switch(s){case 0:a1="http://localhost:3000"+("/order?userID="+a5)
+s=p}while(true)switch(s){case 0:a1="http://52.90.55.243"+("/order?userID="+a5)
 a2=t.N
 a3=A.ak(["Content-Type","application/json"],a2,a2)
 p=4
@@ -29409,7 +29409,7 @@ case 2:return A.D(o,r)}})
 return A.F($async$OS,r)},
 Cq(a){var s=0,r=A.G(t.NZ),q,p=2,o,n,m,l,k,j,i,h,g,f,e
 var $async$Cq=A.C(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:h="http://localhost:3000"+("/order/"+a+"/appointment")
+s=p}while(true)switch(s){case 0:h="http://52.90.55.243"+("/order/"+a+"/appointment")
 g=t.N
 f=A.ak(["Content-Type","application/json"],g,g)
 p=4
@@ -29448,7 +29448,7 @@ case 2:return A.D(o,r)}})
 return A.F($async$Cq,r)},
 adZ(a){var s=0,r=A.G(t.dU),q,p=2,o,n,m,l,k,j,i,h,g,f,e
 var $async$adZ=A.C(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:h="http://localhost:3000"+("/order/"+a+"/services")
+s=p}while(true)switch(s){case 0:h="http://52.90.55.243"+("/order/"+a+"/services")
 g=t.N
 f=A.ak(["Content-Type","application/json"],g,g)
 p=4
@@ -29490,7 +29490,7 @@ return A.F($async$adZ,r)},
 ae_:function ae_(){},
 aib(a){var s=0,r=A.G(t.bo),q,p=2,o,n,m,l,k,j,i,h,g
 var $async$aib=A.C(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:k="http://localhost:3000/users"
+s=p}while(true)switch(s){case 0:k="http://52.90.55.243/users"
 j=a.m9()
 i=t.N
 h=A.ak(["Content-Type","application/json"],i,i)
@@ -29522,7 +29522,7 @@ case 2:return A.D(o,r)}})
 return A.F($async$aib,r)},
 aid(a){var s=0,r=A.G(t.jk),q,p=2,o,n,m,l,k,j,i,h,g
 var $async$aid=A.C(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:j="http://localhost:3000"+("/users/fb/"+a)
+s=p}while(true)switch(s){case 0:j="http://52.90.55.243"+("/users/fb/"+a)
 i=t.N
 h=A.ak(["Content-Type","application/json"],i,i)
 p=4
@@ -29559,7 +29559,7 @@ QS(a){var s=0,r=A.G(t.H),q=1,p,o,n,m,l,k,j,i,h
 var $async$QS=A.C(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:i=a.f
 i===$&&A.a()
-o="http://localhost:3000"+("/users/"+i)
+o="http://52.90.55.243"+("/users/"+i)
 n=a.m9()
 i=t.N
 m=A.ak(["Content-Type","application/json"],i,i)
@@ -29586,7 +29586,7 @@ case 1:return A.D(p,r)}})
 return A.F($async$QS,r)},
 ai7(a0,a1){var s=0,r=A.G(t.bo),q,p=2,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a
 var $async$ai7=A.C(function(a2,a3){if(a2===1){o=a3
-s=p}while(true)switch(s){case 0:c="http://localhost:3000/address"
+s=p}while(true)switch(s){case 0:c="http://52.90.55.243/address"
 b=a0.b
 b===$&&A.a()
 j=a0.c
@@ -29631,7 +29631,7 @@ case 2:return A.D(o,r)}})
 return A.F($async$ai7,r)},
 aic(a5){var s=0,r=A.G(t.rM),q,p=2,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4
 var $async$aic=A.C(function(a6,a7){if(a6===1){o=a7
-s=p}while(true)switch(s){case 0:a1="http://localhost:3000"+("/users/"+a5+"/addresses")
+s=p}while(true)switch(s){case 0:a1="http://52.90.55.243"+("/users/"+a5+"/addresses")
 a2=t.N
 a3=A.ak(["Content-Type","application/json"],a2,a2)
 p=4
@@ -29676,7 +29676,7 @@ return A.F($async$aic,r)},
 ai8(a,b){return A.aTW(a,b)},
 aTW(a,b){var s=0,r=A.G(t.H),q=1,p,o,n,m,l,k,j,i,h
 var $async$ai8=A.C(function(c,d){if(c===1){p=d
-s=q}while(true)switch(s){case 0:k="http://localhost:3000/service/categories"
+s=q}while(true)switch(s){case 0:k="http://52.90.55.243/service/categories"
 j=t.N
 i=A.ak(["Content-Type","application/json"],j,j)
 q=3
@@ -29703,7 +29703,7 @@ case 1:return A.D(p,r)}})
 return A.F($async$ai8,r)},
 aia(a,b,c){var s=0,r=A.G(t.H),q,p=2,o,n,m,l,k,j,i,h,g
 var $async$aia=A.C(function(d,e){if(d===1){o=e
-s=p}while(true)switch(s){case 0:k="http://localhost:3000/users/invite"
+s=p}while(true)switch(s){case 0:k="http://52.90.55.243/users/invite"
 j=t.N
 i=A.ak(["authorized_user_email",a,"code",b,"seeker_user_email",c],j,t.z)
 h=A.ak(["Content-Type","application/json"],j,j)
@@ -30722,7 +30722,7 @@ aRo(a){if(a==null||a.length===0)return"Must Select one"
 return null},
 Oe(a,b,c,d,e){var s=0,r=A.G(t.Cr),q,p=2,o,n,m,l,k,j,i,h,g,f
 var $async$Oe=A.C(function(a0,a1){if(a0===1){o=a1
-s=p}while(true)switch(s){case 0:j="http://localhost:3000/order/match"
+s=p}while(true)switch(s){case 0:j="http://52.90.55.243/order/match"
 i=t.N
 h=A.ak(["Content-Type","application/json"],i,i)
 g=A.ak(["start_time",d.pq(),"end_time",b.pq(),"addressID",a,"userID",e,"serviceIDsList",A.aSa(c)],i,t.z)
@@ -30779,7 +30779,7 @@ for(s=t.N,r=t.S,q=0;q<a.length;++q)p.push(A.ak(["service_id",a[q]],s,r))
 return p},
 Of(a){var s=0,r=A.G(t.nd),q,p=2,o,n,m,l,k,j,i,h,g,f,e
 var $async$Of=A.C(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:h="http://localhost:3000"+("/provider/"+a)
+s=p}while(true)switch(s){case 0:h="http://52.90.55.243"+("/provider/"+a)
 g=t.N
 f=A.ak(["Content-Type","application/json"],g,g)
 p=4
@@ -30826,7 +30826,7 @@ aiQ(){var s=0,r=A.G(t.v1),q,p=2,o,n,m,l,k,j,i,h,g,f,e,d,c
 var $async$aiQ=A.C(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:h=J.df(0,t.X6)
 g=h
-f="http://localhost:3000/service/categories"
+f="http://52.90.55.243/service/categories"
 e=t.N
 d=A.ak(["Content-Type","application/json"],e,e)
 p=4
@@ -30863,7 +30863,7 @@ aiR(){var s=0,r=A.G(t.dU),q,p=2,o,n,m,l,k,j,i,h,g,f,e,d,c
 var $async$aiR=A.C(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:h=J.df(0,t.yM)
 g=h
-f="http://localhost:3000/service"
+f="http://52.90.55.243/service"
 e=t.N
 d=A.ak(["Content-Type","application/json"],e,e)
 p=4
