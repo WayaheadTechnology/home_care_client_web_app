@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "439348165568be5d293c1060de6c7cec",
-"version.json": "5e1886472f13af608f135f82e9949293",
+const RESOURCES = {"flutter_bootstrap.js": "3d51b69861be40c3b3cf120c552c7e6b",
+"version.json": "b78155a4223e5fb99a3fd4fef6f5a0a3",
 "index.html": "6296788fcaaf892e847a05e02ad2d9af",
 "/": "6296788fcaaf892e847a05e02ad2d9af",
-"main.dart.js": "2050d7267e3f99a5a9fa32107a6661c7",
+"main.dart.js": "8a0bc7c8823e0e711ded62542c3dcf21",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -39,7 +39,7 @@ const RESOURCES = {"flutter_bootstrap.js": "439348165568be5d293c1060de6c7cec",
 "assets/lib/assets/icons/payment_methods/mastercard.png": "c390cd751ee91d02310634534fdfcc49",
 "assets/lib/assets/icons/check_mark.png": "6ebd6bde1281f5fe321024ea66693019",
 "assets/AssetManifest.bin": "dbbd35d12187d55661b0d94a7b1488e8",
-"assets/fonts/MaterialIcons-Regular.otf": "609802922d1cf82bae956a980cf2793f",
+"assets/fonts/MaterialIcons-Regular.otf": "c7c52dcecd76c18969350b152cfd4b02",
 "canvaskit/skwasm.js": "ac0f73826b925320a1e9b0d3fd7da61c",
 "canvaskit/skwasm.js.symbols": "96263e00e3c9bd9cd878ead867c04f3c",
 "canvaskit/canvaskit.js.symbols": "efc2cd87d1ff6c586b7d4c7083063a40",
