@@ -103541,15 +103541,15 @@ while(true)switch(s){case 0:if(p.c){s=1
 break}o=t.N
 n=t.z
 m=A.U(["transports",A.b(["websocket"],t.s),"autoConnect",!1],o,n)
-l=A.bz("ws://api.ultimatecare.ai",0,null)
+l=A.bz("https://api.ultimatecare.ai",0,null)
 k=l.gdY()+"://"+l.gji()+":"+l.gr6()
 j=l.gcz()
 i=$.aPe.ac(k)&&$.aPe.h(0,k).d.ac(j)
 h=J.d(m.h(0,"forceNew"),!0)||J.d(m.h(0,"force new connection"),!0)||!1===m.h(0,"multiplex")||i
 g=A.bv("io")
-if(h){$.b6A().aW(B.q,"ignoring socket cache for ws://api.ultimatecare.ai",null,null)
-g.b=A.aYR(m,"ws://api.ultimatecare.ai")}else{f=$.aPe.h(0,k)
-if(f==null){f=A.aYR(m,"ws://api.ultimatecare.ai")
+if(h){$.b6A().aW(B.q,"ignoring socket cache for https://api.ultimatecare.ai",null,null)
+g.b=A.aYR(m,"https://api.ultimatecare.ai")}else{f=$.aPe.h(0,k)
+if(f==null){f=A.aYR(m,"https://api.ultimatecare.ai")
 $.aPe.n(0,k,f)}g.b=f}if(l.gmc().length!==0&&m.h(0,"query")==null)m.n(0,"query",l.gmc())
 else if(t.f.b(m.h(0,"query")))m.n(0,"query",A.bkr(m.h(0,"query")))
 f=g.aT()
